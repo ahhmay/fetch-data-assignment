@@ -1,0 +1,23 @@
+.mobile-card {
+    width: 250px;
+    height: auto;
+    background-color: rgb(58, 58, 58);
+    color: white;
+    margin: 5px;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.title {
+    margin-top: 0;
+}
+
+.price {
+    font-weight: 600;
+}
+
+.background {
+    background-color: aquamarine;
+    padding: 0px 2px;
+    border-radius: 4px;
+}

@@ -1,0 +1,12 @@
+.mobile-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.loading {
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+}
