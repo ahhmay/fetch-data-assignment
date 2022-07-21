@@ -19,9 +19,6 @@ function useFetch(url) {
                     setError(error);
                     setLoading(false);
                 }
-                // finally {
-                //     setLoading(false);
-                // }
             }
         )()
     }, [url]);
